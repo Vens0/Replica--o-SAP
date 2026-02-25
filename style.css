@@ -1,22 +1,33 @@
 body{
     display: flex;
+    flex-wrap: wrap;
+
 }
 
 #bloco1{
     background-color: rgb(217, 232, 243);
-    width: 1100px;
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    margin: 5px;
+    font
+   
+}
+
+#bloco2{
+    
+    width: 300px;
     height: 300px;
     border-radius: 10px;
     margin: 5px;
    
 }
 
-#bloco2{
+#bloco3{
     background-color: rgb(217, 232, 243);
-    width: 400px;
+    width: 300px;
     height: 300px;
     border-radius: 10px;
     margin: 5px;
-     
+   
 }
-
