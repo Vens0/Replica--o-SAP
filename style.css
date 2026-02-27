@@ -25,4 +25,11 @@ gap: 20px;
 
     
 }
- 
+
+#robo{
+width: 300px;
+}
+
+#texto{
+    justify-content: center;
+}
